@@ -10,3 +10,4 @@ I am basing this lib based on mandiant's explaination on their blog about imphas
 3. Find all of the permutations.
 4. Print the output.
 
+Consider using Lib [exe](https://docs.rs/exe/latest/exe/index.html)
